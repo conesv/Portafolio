@@ -7,7 +7,7 @@ import image3 from '../assets/image3.jpg'
 
 //git status
 //git add .
-//git commit name
+//git commit -m name
 //git push
 const Cards = [
     {
