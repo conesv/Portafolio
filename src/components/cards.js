@@ -1,9 +1,14 @@
 import React from 'react'
 import Card from "./card"
 import image1 from '../assets/landinf.JPG'
-import image2 from '../assets/image2.jpg'
+import image2 from '../assets/login.JPG'
 import image3 from '../assets/image3.jpg'
 
+
+//git status
+//git add .
+//git commit name
+//git push
 const Cards = [
     {
         id: 1,
@@ -14,9 +19,10 @@ const Cards = [
     },
     {
         id: 2,
-        title: 'Web 2',
+        title: 'Login',
         image: image2,
-        url: 'https://www.google.com'
+        url: 'https://conesv.github.io/login/',
+        text: 'This is a login developed whit HTML and CSS and Bootstrap, i developed this page because i needed an example login for another C# proyect'
     },
     {
         id: 3,
